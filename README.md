@@ -19,7 +19,7 @@ npm run dev
 
 ## Endpoints:
 **/items/**
-**GET** - Return all items
+**GET** - Return all items.␣␣
 **POST** - Adds a new item.
 Requires a JSON body in the format:
 ```json
