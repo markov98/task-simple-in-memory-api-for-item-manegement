@@ -6,7 +6,7 @@
 
 ```bash
 git clone https://github.com/markov98/task-simple-in-memory-api-for-item-manegement.git
-cd restful-api-node-ts
+cd task-simple-in-memory-api-for-item-manegement
 npm install
 npm run build
 npm run start
