@@ -1,0 +1,23 @@
+{
+  "name": "task-simple-in-memory-api-for-item-manegement",
+  "version": "1.0.0",
+  "description": "A task I am doing for a job application.",
+  "homepage": "https://github.com/markov98/task-simple-in-memory-api-for-item-manegement#readme",
+  "bugs": {
+    "url": "https://github.com/markov98/task-simple-in-memory-api-for-item-manegement/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markov98/task-simple-in-memory-api-for-item-manegement.git"
+  },
+  "license": "ISC",
+  "author": "Martin Markov",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
