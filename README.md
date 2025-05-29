@@ -1,6 +1,6 @@
 # Simple RESTful API with Node.js, Express, and TypeScript
 
-# Build for a job application
+## Build for a job application
 
 ## Setup
 
@@ -9,4 +9,20 @@ git clone https://github.com/your-username/restful-api-node-ts.git
 cd restful-api-node-ts
 npm install
 npm run build
+npm run start
+```
+
+## Developement:
+```bash
 npm run dev
+```
+
+## Endpoints:
+**/items/**
+**GET** - Return all items
+**POST** - Adds a new item.
+Requires a JSON body in the format:
+```json
+{ "name": "Item Name" }
+```
+Returns the created item, including its generated **id**.
