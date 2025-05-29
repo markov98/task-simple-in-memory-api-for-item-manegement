@@ -5,7 +5,7 @@
 ## Setup
 
 ```bash
-git clone https://github.com/your-username/restful-api-node-ts.git
+git clone https://github.com/markov98/task-simple-in-memory-api-for-item-manegement.git
 cd restful-api-node-ts
 npm install
 npm run build
